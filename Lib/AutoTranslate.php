@@ -11,8 +11,8 @@ use Exception;
 
 define("CURL_TIMEOUT",   10);
 define("URL",            "http://api.fanyi.baidu.com/api/trans/vip/translate");
-define("APP_ID",         "20180416000147024"); //替换为您的APPID
-define("SEC_KEY",        "SjVyl8Woh0jmtnjS7v9l");//替换为您的密钥
+define("APP_ID",         "APPID"); //替换为您的APPID
+define("SEC_KEY",        "KEY");//替换为您的密钥
 /*
  * 支持源语言语种
 zh	中文
